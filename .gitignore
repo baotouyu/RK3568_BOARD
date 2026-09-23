@@ -1,0 +1,7 @@
+# Rockchip 官方文档（datasheet / TRM / 设计指南等）
+# 通过 GitHub Releases 分发，不纳入 git 版本库
+/doc/
+
+# 打包产物
+*.tar.gz
+*.zip
